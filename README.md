@@ -2,7 +2,7 @@
 
 This is a simple virtual assistant that can recognize and respond to voice commands.
 
-Features
+## Features
 
     Play Music: Say "play [song name]" to play a song on YouTube.
     Tell Time: Say "time" to get the current time.
@@ -11,7 +11,11 @@ Features
     Tell Joke: Say "joke" to hear a joke.
     Stop: Say "goodbye" or "stop" to end the program.
 
+## Demo
 
+Watch the demo video to see the virtual assistant in action:
+
+[![Voice Recognition Virtual Assistant Demo](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=pD7gUFPc3yA) 
 
 
 ## Installation
