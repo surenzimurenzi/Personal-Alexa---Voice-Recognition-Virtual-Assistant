@@ -1,5 +1,4 @@
 # Voice Recognition Virtual Assistant
-
 This is a simple virtual assistant that can recognize and respond to voice commands.
 
 ## Features
