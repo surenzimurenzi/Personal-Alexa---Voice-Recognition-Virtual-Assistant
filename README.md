@@ -11,11 +11,11 @@ This is a simple virtual assistant that can recognize and respond to voice comma
     Tell Joke: Say "joke" to hear a joke.
     Stop: Say "goodbye" or "stop" to end the program.
 
-## Demo
 
-Watch the demo video to see the virtual assistant in action:
+## Project Demo
 
-[![Voice Recognition Virtual Assistant Demo](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=pD7gUFPc3yA) 
+[![Watch the video](http://img.youtube.com/vi/pD7gUFPc3yA/0.jpg)](https://www.youtube.com/watch?v=pD7gUFPc3yA)
+
 
 
 ## Installation
